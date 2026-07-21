@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cherry SMP BP",
+    "description": "Cherry SMP Behavior Pack",
+    "uuid": "bd9fd8c1-2a0c-4466-a649-f8d6a44cbe84",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "6b17c0d9-0d74-47d2-8f4d-fd9fcbf9d2cb",
+      "version": [1, 0, 0]
+    }
+  ]
+}

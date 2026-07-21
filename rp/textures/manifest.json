@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Cherry SMP RP",
+    "description": "Cherry SMP Resource Pack",
+    "uuid": "3b016387-152c-4f11-930a-c5cd4b732aa8",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "5c0c8d7b-0c80-4e91-a7d8-1b9b83b8d7b4",
+      "version": [1, 0, 0]
+    }
+  ]
+}
