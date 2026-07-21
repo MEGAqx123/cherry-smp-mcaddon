@@ -18,6 +18,10 @@ function buy(player, detectItem, detectData, item, price) {
     }
 }
 
-for (const player of world.getPlayers()) {
-    buy(player, "spyglass", 10, "totem_of_undying", 600);
-}
+system.runInterval(() => {
+
+    for (const player of world.getPlayers()) {
+        buy(player, "spyglass", 10, "totem_of_undying", 600);
+    }
+
+}, 1);
